@@ -3,15 +3,29 @@ const express = require("express");
 const cors = require("cors");
 const authRoutes = require("./routes/auth");
 const jobRoutes = require("./routes/jobs");
-const { notFoundHandler, errorHandler, AppError } = require("./middleware/errors");
+const {
+  notFoundHandler,
+  errorHandler,
+  AppError,
+} = require("./middleware/errors");
 
 const app = express();
 
 const corsOrigin = process.env.CORS_ORIGIN;
+function normalizeCorsOrigin(origin) {
+  const value = origin.trim();
+
+  try {
+    return new URL(value).origin;
+  } catch {
+    return value.replace(/\/+$/, "");
+  }
+}
+
 app.use(
   cors(
     corsOrigin
-      ? { origin: corsOrigin.split(",").map((s) => s.trim()) }
+      ? { origin: corsOrigin.split(",").map(normalizeCorsOrigin) }
       : { origin: true }
   )
 );
