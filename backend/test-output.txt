@@ -1,0 +1,85 @@
+﻿  console.log
+    Downloading MongoDB "7.0.24": 0% (0mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 0.5% (2.9mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 1.4% (8.5mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 2.3% (13.8mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 3.3% (19.8mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 4.1% (24.5mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 4.8% (28.6mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 5.4% (32.4mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 6.1% (36.4mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 6.9% (41.1mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 7.6% (45.8mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 8.4% (50.4mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 9.2% (55.3mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 9.7% (58.1mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 10.3% (61.6mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 10.6% (63.9mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
+  console.log
+    Downloading MongoDB "7.0.24": 11.2% (67.4mb / 599.7mb)[0G
+
+      at MongoBinaryDownload.printDownloadProgress (node_modules/mongodb-memory-server-core/src/util/MongoBinaryDownload.ts:664:15)
+
